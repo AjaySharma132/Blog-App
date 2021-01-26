@@ -1,6 +1,5 @@
 # Blog App
 
-It is a blog app, designed using python and django. This blog app includes various features like adding, deleting and editing a blog, only if someone has been granted the access.
-
+It is a blog app backend on django. It inlcudes features like creating, editing and deleting a blog post. Only permitted users are allowed to write/edit/delete a blog. Sqlite is used for the database.
 
 
